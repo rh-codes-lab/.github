@@ -1,4 +1,4 @@
-# CoDes Lab: A co-design research lab to advance specialized hardware projects
+# [CoDes Lab: A co-design research lab to advance specialized hardware projects](https://research.redhat.com/blog/research_project/codes-a-co-design-research-lab-to-advance-specialized-hardware-projects/)
 <p align="center">
   <img src="https://github.com/rh-codes-lab/.github/blob/c9d6e3907bde4f4e28e7a6bbe46cc886c592f821/img/CoDes_banner.png" alt="CoDees banner" width="600">
 </p>
